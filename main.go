@@ -17,5 +17,3 @@ func main() {
 	fmt.Println(totalLenght, up)
 	fmt.Println("Hello!")
 }
-
-//help!
