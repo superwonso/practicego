@@ -1,0 +1,2 @@
+# practicego
+Practice Golang
