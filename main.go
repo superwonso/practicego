@@ -17,4 +17,4 @@ func main() {
 	fmt.Println(i % 10)
 }
 
-//fck https://www.acmicpc.net/problem/1312
+//https://www.acmicpc.net/problem/1312
